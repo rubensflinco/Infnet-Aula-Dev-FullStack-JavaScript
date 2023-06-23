@@ -14,3 +14,9 @@
 - Acesse a pasta com o comando ```cd back```.
 - Para iniciar use o comando ```npm run dev```.
 - Pronto.
+
+## Links:
+https://create-react-app.dev/docs/getting-started/
+https://code.visualstudio.com/download
+https://git-scm.com/downloads
+https://nodejs.org/en
