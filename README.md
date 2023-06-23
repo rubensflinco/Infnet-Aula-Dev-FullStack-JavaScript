@@ -16,7 +16,7 @@
 - Pronto.
 
 ## Links:
-https://create-react-app.dev/docs/getting-started/
-https://code.visualstudio.com/download
-https://git-scm.com/downloads
-https://nodejs.org/en
+- https://create-react-app.dev/docs/getting-started/
+- https://code.visualstudio.com/download
+- https://git-scm.com/downloads
+- https://nodejs.org/en
